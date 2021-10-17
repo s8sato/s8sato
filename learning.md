@@ -31,7 +31,7 @@
 ## Networking, Distributed System
 | Progress | Title |
 | :-- | :-- |
-| `#........` | [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) |
+| Completed | [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) |
 |  | [Network Programming with Rust](https://www.packtpub.com/product/network-programming-with-rust/9781788624893) |
 |  | [Rustで始めるネットワークプログラミング](https://cha-shu00.hatenablog.com/entry/2019/06/12/231526) |
 |  | [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |
