@@ -14,7 +14,7 @@
 ## Rust
 | Progress | Title |
 | :-- | :-- |
-|  | [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) |
+| `...................#...` | [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) |
 |  | [The Rust Reference](https://doc.rust-lang.org/stable/reference/) |
 |  | [The Rustonomicon](https://doc.rust-lang.org/nomicon/) |
 |  | [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) |
@@ -29,7 +29,6 @@
 ## Networking, Distributed System
 | Progress | Title |
 | :-- | :-- |
-|  | [Network Programming with Rust](https://www.packtpub.com/product/network-programming-with-rust/9781788624893) |
 |  | [Rustで始めるネットワークプログラミング](https://cha-shu00.hatenablog.com/entry/2019/06/12/231526) |
 |  | [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |
 |  | [Rust and WebAssembly](https://rustwasm.github.io/book/) |
@@ -38,13 +37,13 @@
 ## Blockchain, Cryptography
 | Progress | Title |
 | :-- | :-- |
-| `#.......` | [Build Your Own Blockchain](https://www.springer.com/gp/book/9783030401412) |
+| `##......` | [Build Your Own Blockchain](https://www.springer.com/gp/book/9783030401412) |
 |  | [暗号技術入門 第3版 秘密の国のアリス](https://www.hyuki.com/cr/) |
 
 ## Finance, Economics
 | Progress | Title |
 | :-- | :-- |
-|  | [円の支配者](http://www.soshisha.com/book_search/detail/1_1057.html) |
+| `#..................` | [円の支配者](http://www.soshisha.com/book_search/detail/1_1057.html) |
 |  | [新版 金融の基本..](https://www.njg.co.jp/book/9784534057419/) |
 |  | [図解即戦力 金融のしくみ..](https://gihyo.jp/book/2021/978-4-297-11740-5) |
 |  | [図解即戦力 金融業界のしくみ..](https://gihyo.jp/book/2020/978-4-297-11319-3) |
@@ -66,7 +65,7 @@
 ## CS
 | Progress | Title |
 | :-- | :-- |
-| `#########...` | [nand2tetris](https://www.nand2tetris.org/) |
+| `##########..` | [nand2tetris](https://www.nand2tetris.org/) |
 |  | [Programming Quantum Computers ](https://learning.oreilly.com/library/view/programming-quantum-computers/9781492039679/) |
 
 ## Math, Physics
