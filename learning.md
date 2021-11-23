@@ -80,4 +80,4 @@
 ## English
 | Progress | Title |
 | :-- | :-- |
-| `##########........` | [ＩＴエンジニアのための場面別英会話＆キーフレーズ](https://www.natsume.co.jp/books/8794) |
+| `############......` | [ＩＴエンジニアのための場面別英会話＆キーフレーズ](https://www.natsume.co.jp/books/8794) |
