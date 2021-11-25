@@ -40,6 +40,7 @@
 | :-- | :-- |
 | `##......` | [Build Your Own Blockchain](https://www.springer.com/gp/book/9783030401412) |
 |  | [暗号技術入門 第3版 秘密の国のアリス](https://www.hyuki.com/cr/) |
+|  | [The Joy of Cryptography](https://joyofcryptography.com/) |
 
 ## Finance, Economics
 | Progress | Title |
@@ -80,4 +81,4 @@
 ## English
 | Progress | Title |
 | :-- | :-- |
-| `##############....` | [ＩＴエンジニアのための場面別英会話＆キーフレーズ](https://www.natsume.co.jp/books/8794) |
+| `################..` | [ＩＴエンジニアのための場面別英会話＆キーフレーズ](https://www.natsume.co.jp/books/8794) |
