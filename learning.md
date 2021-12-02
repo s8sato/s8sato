@@ -81,4 +81,4 @@
 ## English
 | Progress | Title |
 | :-- | :-- |
-| Completed | [ＩＴエンジニアのための場面別英会話＆キーフレーズ](https://www.natsume.co.jp/books/8794) |
+| `######              ##       #` | [ネイティブ厳選　必ず使える英会話まる覚え](https://www.jresearch.co.jp/book/b497119.html) |
