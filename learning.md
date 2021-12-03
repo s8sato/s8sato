@@ -81,4 +81,4 @@
 ## English
 | Progress | Title |
 | :-- | :-- |
-| `######              ##       #` | [ネイティブ厳選　必ず使える英会話まる覚え](https://www.jresearch.co.jp/book/b497119.html) |
+| `############        ##       #` | [ネイティブ厳選　必ず使える英会話まる覚え](https://www.jresearch.co.jp/book/b497119.html) |
