@@ -33,7 +33,7 @@
 |  | [Rustで始めるネットワークプログラミング](https://cha-shu00.hatenablog.com/entry/2019/06/12/231526) |
 |  | [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |
 |  | [Rust and WebAssembly](https://rustwasm.github.io/book/) |
-| `#.......` | [並行プログラミング入門](https://www.oreilly.co.jp/books/9784873119595/) |
+| `##......` | [並行プログラミング入門](https://www.oreilly.co.jp/books/9784873119595/) |
 
 ## Blockchain, Cryptography
 | Progress | Title |
@@ -47,8 +47,6 @@
 | :-- | :-- |
 | `#..................` | [円の支配者](http://www.soshisha.com/book_search/detail/1_1057.html) |
 |  | [新版 金融の基本..](https://www.njg.co.jp/book/9784534057419/) |
-|  | [図解即戦力 金融のしくみ..](https://gihyo.jp/book/2021/978-4-297-11740-5) |
-|  | [図解即戦力 金融業界のしくみ..](https://gihyo.jp/book/2020/978-4-297-11319-3) |
 |  | [How Finance Works](https://store.hbr.org/product/how-finance-works-the-hbr-guide-to-thinking-smart-about-the-numbers/10230) |
 |  | [A Concise Guide to Macroeconomics](https://store.hbr.org/product/a-concise-guide-to-macroeconomics-second-edition-what-managers-executives-and-students-need-to-know/16969) |
 
@@ -81,7 +79,7 @@
 ## English
 | Progress | Title |
 | :-- | :-- |
-| `##########################   #` | [ネイティブ厳選　必ず使える英会話まる覚え](https://www.jresearch.co.jp/book/b497119.html) |
+| Completed | [ネイティブ厳選　必ず使える英会話まる覚え](https://www.jresearch.co.jp/book/b497119.html) |
 
 <!-- BChain paper -->
 <!-- 不完全性定理 -->
