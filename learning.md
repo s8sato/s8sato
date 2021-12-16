@@ -38,6 +38,7 @@
 ## Blockchain, Cryptography
 | Progress | Title |
 | :-- | :-- |
+| `#...........` | [BChain: Byzantine Replication with High Throughput and Embedded Reconfiguration](https://www.csee.umbc.edu/~hbzhang/files/bchain.pdf) |
 | `##......` | [Build Your Own Blockchain](https://www.springer.com/gp/book/9783030401412) |
 |  | [暗号技術入門 第3版 秘密の国のアリス](https://www.hyuki.com/cr/) |
 |  | [The Joy of Cryptography](https://joyofcryptography.com/) |
@@ -75,11 +76,8 @@
 |  | [Quantum Mechanics](https://theoreticalminimum.com/courses/quantum-mechanics/2012/winter) |
 | `######....` | [物理現象の数学的諸原理](https://www.kyoritsu-pub.co.jp/bookdetail/9784320017269) |
 | `#####..............` | [Abstract Algebra](https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347) |
-
+<!-- 不完全性定理 -->
 ## English
 | Progress | Title |
 | :-- | :-- |
 | Completed | [ネイティブ厳選　必ず使える英会話まる覚え](https://www.jresearch.co.jp/book/b497119.html) |
-
-<!-- BChain paper -->
-<!-- 不完全性定理 -->
