@@ -15,10 +15,10 @@
 ## Rust
 | Progress | Title |
 | :-- | :-- |
+|  | [Rust and WebAssembly](https://rustwasm.github.io/book/) |
 | `...................#...` | [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) |
 |  | [The Rust Reference](https://doc.rust-lang.org/stable/reference/) |
 |  | [The Rustonomicon](https://doc.rust-lang.org/nomicon/) |
-|  | [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) |
 
 ## Algorithm
 | Progress | Title |
@@ -32,13 +32,12 @@
 | :-- | :-- |
 |  | [Rustで始めるネットワークプログラミング](https://cha-shu00.hatenablog.com/entry/2019/06/12/231526) |
 |  | [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |
-|  | [Rust and WebAssembly](https://rustwasm.github.io/book/) |
 | `##......` | [並行プログラミング入門](https://www.oreilly.co.jp/books/9784873119595/) |
 
 ## Blockchain, Cryptography
 | Progress | Title |
 | :-- | :-- |
-| `###.........` | [BChain: Byzantine Replication with High Throughput and Embedded Reconfiguration](https://www.csee.umbc.edu/~hbzhang/files/bchain.pdf) |
+| `####........` | [BChain: Byzantine Replication with High Throughput and Embedded Reconfiguration](https://www.csee.umbc.edu/~hbzhang/files/bchain.pdf) |
 | `##......` | [Build Your Own Blockchain](https://www.springer.com/gp/book/9783030401412) |
 |  | [暗号技術入門 第3版 秘密の国のアリス](https://www.hyuki.com/cr/) |
 |  | [The Joy of Cryptography](https://joyofcryptography.com/) |
@@ -66,17 +65,17 @@
 ## CS
 | Progress | Title |
 | :-- | :-- |
+|  | [TLA+](https://en.wikipedia.org/wiki/TLA%2B) |
 | `##########..` | [nand2tetris](https://www.nand2tetris.org/) |
 |  | [Programming Quantum Computers ](https://learning.oreilly.com/library/view/programming-quantum-computers/9781492039679/) |
 
 ## Math, Physics
 | Progress | Title |
 | :-- | :-- |
+|  | [不完全性定理](https://www.kyoritsu-pub.co.jp/bookdetail/9784320110960) |
 |  | [ベーシック圏論](https://www.maruzen-publishing.co.jp/item/?book_no=295027) |
 |  | [Quantum Mechanics](https://theoreticalminimum.com/courses/quantum-mechanics/2012/winter) |
-| `######....` | [物理現象の数学的諸原理](https://www.kyoritsu-pub.co.jp/bookdetail/9784320017269) |
-| `#####..............` | [Abstract Algebra](https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347) |
-<!-- 不完全性定理 -->
+
 ## English
 | Progress | Title |
 | :-- | :-- |
