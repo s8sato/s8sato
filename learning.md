@@ -15,8 +15,8 @@
 ## Rust
 | Progress | Title |
 | :-- | :-- |
-|  | [Rust and WebAssembly](https://rustwasm.github.io/book/) |
-| `...................#...` | [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) |
+| Completed | [Rust and WebAssembly](https://rustwasm.github.io/book/) |
+| `....#..#....#.....###..` | [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) |
 |  | [The Rust Reference](https://doc.rust-lang.org/stable/reference/) |
 |  | [The Rustonomicon](https://doc.rust-lang.org/nomicon/) |
 
@@ -37,15 +37,15 @@
 ## Blockchain, Cryptography
 | Progress | Title |
 | :-- | :-- |
-| `####........` | [BChain: Byzantine Replication with High Throughput and Embedded Reconfiguration](https://www.csee.umbc.edu/~hbzhang/files/bchain.pdf) |
-| `##......` | [Build Your Own Blockchain](https://www.springer.com/gp/book/9783030401412) |
+| Completed | [BChain: Byzantine Replication with High Throughput and Embedded Reconfiguration](https://www.csee.umbc.edu/~hbzhang/files/bchain.pdf) |
+| `#####...` | [Build Your Own Blockchain](https://www.springer.com/gp/book/9783030401412) |
 |  | [暗号技術入門 第3版 秘密の国のアリス](https://www.hyuki.com/cr/) |
 |  | [The Joy of Cryptography](https://joyofcryptography.com/) |
 
 ## Finance, Economics
 | Progress | Title |
 | :-- | :-- |
-| `#..................` | [円の支配者](http://www.soshisha.com/book_search/detail/1_1057.html) |
+| Completed | [円の支配者](http://www.soshisha.com/book_search/detail/1_1057.html) |
 |  | [新版 金融の基本..](https://www.njg.co.jp/book/9784534057419/) |
 |  | [How Finance Works](https://store.hbr.org/product/how-finance-works-the-hbr-guide-to-thinking-smart-about-the-numbers/10230) |
 |  | [A Concise Guide to Macroeconomics](https://store.hbr.org/product/a-concise-guide-to-macroeconomics-second-edition-what-managers-executives-and-students-need-to-know/16969) |
@@ -65,7 +65,7 @@
 ## CS
 | Progress | Title |
 | :-- | :-- |
-|  | [TLA+](https://en.wikipedia.org/wiki/TLA%2B) |
+| Completed | [TLA+](https://en.wikipedia.org/wiki/TLA%2B) |
 | `##########..` | [nand2tetris](https://www.nand2tetris.org/) |
 |  | [Programming Quantum Computers ](https://learning.oreilly.com/library/view/programming-quantum-computers/9781492039679/) |
 
