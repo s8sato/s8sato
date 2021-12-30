@@ -79,4 +79,4 @@
 ## English
 | Progress | Title |
 | :-- | :-- |
-| R2 `############......` | [ＩＴエンジニアのための場面別英会話＆キーフレーズ](https://www.natsume.co.jp/books/8794) |
+| R2 `##############....` | [ＩＴエンジニアのための場面別英会話＆キーフレーズ](https://www.natsume.co.jp/books/8794) |
