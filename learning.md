@@ -37,7 +37,7 @@
 ## Blockchain, Cryptography
 | Progress | Title |
 | :-- | :-- |
-| `######......` | [BChain: Byzantine Replication with High Throughput and Embedded Reconfiguration](https://www.csee.umbc.edu/~hbzhang/files/bchain.pdf) |
+| `#######.....` | [BChain: Byzantine Replication with High Throughput and Embedded Reconfiguration](https://www.csee.umbc.edu/~hbzhang/files/bchain.pdf) |
 | `##......` | [Build Your Own Blockchain](https://www.springer.com/gp/book/9783030401412) |
 |  | [暗号技術入門 第3版 秘密の国のアリス](https://www.hyuki.com/cr/) |
 |  | [The Joy of Cryptography](https://joyofcryptography.com/) |
