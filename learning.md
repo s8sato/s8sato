@@ -16,7 +16,7 @@
 | Progress | Title |
 | :-- | :-- |
 |  | [Rust and WebAssembly](https://rustwasm.github.io/book/) |
-| `..................##...` | [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) |
+| `.................###...` | [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) |
 |  | [The Rust Reference](https://doc.rust-lang.org/stable/reference/) |
 |  | [The Rustonomicon](https://doc.rust-lang.org/nomicon/) |
 
@@ -45,9 +45,9 @@
 ## Finance, Economics
 | Progress | Title |
 | :-- | :-- |
-| `###................` | [円の支配者](http://www.soshisha.com/book_search/detail/1_1057.html) |
 |  | [新版 金融の基本..](https://www.njg.co.jp/book/9784534057419/) |
 |  | [How Finance Works](https://store.hbr.org/product/how-finance-works-the-hbr-guide-to-thinking-smart-about-the-numbers/10230) |
+| `###................` | [円の支配者](http://www.soshisha.com/book_search/detail/1_1057.html) |
 |  | [A Concise Guide to Macroeconomics](https://store.hbr.org/product/a-concise-guide-to-macroeconomics-second-edition-what-managers-executives-and-students-need-to-know/16969) |
 
 ## Web App
