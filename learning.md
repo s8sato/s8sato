@@ -15,7 +15,7 @@
 ## Rust
 | Progress | Title |
 | :-- | :-- |
-|  | [Rust and WebAssembly](https://rustwasm.github.io/book/) |
+| `##########.............` | [Rust and WebAssembly](https://rustwasm.github.io/docs/book/) |
 | `.................###...` | [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) |
 |  | [The Rust Reference](https://doc.rust-lang.org/stable/reference/) |
 |  | [The Rustonomicon](https://doc.rust-lang.org/nomicon/) |
