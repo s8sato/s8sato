@@ -45,7 +45,7 @@
 ## Finance, Economics
 | Progress | Title |
 | :-- | :-- |
-|  | [新版 金融の基本..](https://www.njg.co.jp/book/9784534057419/) |
+| `#.......` | [新版 金融の基本..](https://www.njg.co.jp/book/9784534057419/) |
 |  | [How Finance Works](https://store.hbr.org/product/how-finance-works-the-hbr-guide-to-thinking-smart-about-the-numbers/10230) |
 | `###................` | [円の支配者](http://www.soshisha.com/book_search/detail/1_1057.html) |
 |  | [A Concise Guide to Macroeconomics](https://store.hbr.org/product/a-concise-guide-to-macroeconomics-second-edition-what-managers-executives-and-students-need-to-know/16969) |
